@@ -1,0 +1,14 @@
+
+#contenedor { margin:auto;
+	width:600px;
+	height:600px;}
+	
+.izquierda {float:left;}
+.derecha {float:right;}
+.verde {background-color:#42790B; }
+.verde_flojo {background-color:#76D11A;}
+.negro {background-color:black;}
+.rectangulo_largo {width:65.9%; height:15.9%; border:2px solid white;}
+.rectangulo_corto {width:32.5%; height:15.9%; border:2px solid white;}
+.cuadrado {width:32.7%; height:32.7%; border:2px solid white;}
+.border { border:2px solid white;}

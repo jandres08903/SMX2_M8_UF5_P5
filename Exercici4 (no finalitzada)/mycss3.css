@@ -1,0 +1,110 @@
+#contenedor { 	height:600px;
+				width:600px;
+				
+				margin:auto;}
+
+.verde {background-color:#42790B; }
+.verde_flojo {background-color:#76D11A;	}
+.negro {background-color:black;
+background-image: url("images.jpg");
+background-size:196px, 196px;}
+#rectangulo_largo {	width:396px; 
+					height:96px;
+					border:2px solid white;
+					position:absolute;
+					left: 126px;
+					background-image: url("source.gif");
+					background-size:196px;}
+					
+#rectangulo_corto_uno {	width:196px;
+						height:96px;
+						border:2px solid white;
+						position:absolute;
+						left: 526px;
+						background-image: url("palomas.jpg");
+						background-size:196px 96px;}
+						
+#cuadrado_uno {	width:196px;
+				height:196px;
+				border:2px solid white;
+				position:absolute;
+				left:126px;
+				top:107px;}
+				
+#rectangulo_gordo  {width:196px;
+					height:296px;
+					border:2px solid white;
+					position:absolute;
+					left:326px;
+					top:107px;
+					background-image: url("tenor.gif");
+					background-size:196px 300px;}
+					
+#rectangulo_corto_dos {	width:196px;
+						height:96px;
+						border:2px solid white;
+						position:absolute;
+						left: 526px;
+						top:107px;
+						background-image: url("palomas.jpg");
+						background-size:196px 96px;}
+						
+#rectangulo_corto_tres {width:196px;
+						height:96px;
+						border:2px solid white;
+						position:absolute;
+						left: 526px;
+						top:207px;
+						background-image: url("palomas.jpg");
+						background-size:196px 96px;}
+						
+#rectangulo_corto_cuatro {	width:196px;
+							height:96px;
+							border:2px solid white;
+							position:absolute;
+							top:307px;
+							left:126px;
+							background-image: url("palomas.jpg");
+							background-size:196px 96px;}
+							
+#cuadrado_dos {	width:196px;
+				height:196px;
+				border:2px solid white;
+				position:absolute;
+				left:126px;
+				top:407px;}
+				
+#cuadrado_tres {width:196px;
+				height:196px;
+				border:2px solid white;
+				position:absolute;
+				left:526px;
+				top:307px;}
+	
+#rectangulo_corto_cinco {	width:196px;
+							height:96px;
+							border:2px solid white;
+							position:absolute;
+							top:407px;
+							left:326px;
+							background-image: url("palomas.jpg");
+							background-size:196px 96px;}
+
+#rectangulo_corto_seis {	width:196px;
+							height:96px;
+							border:2px solid white;
+							position:absolute;
+							top:507px;
+							left:326px;
+							background-image: url("palomas.jpg");
+							background-size:196px 96px;}
+							
+
+#rectangulo_corto_siete {	width:196px;
+							height:96px;
+							border:2px solid white;
+							position:absolute;
+							left: 526px;
+							top:507px;
+							background-image: url("palomas.jpg");
+							background-size:196px 96px;}											
